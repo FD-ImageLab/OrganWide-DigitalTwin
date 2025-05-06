@@ -1,0 +1,9 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Frontal_lobe,Morphology,Morphology_Frontal,1,Data/OrganCorrelation/RefData/Brain.csv
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Parietal_lobe,Morphology,Morphology_Parietal,2,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Occipital_lobe,Morphology,Morphology_Occipital,3,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Temporal_lobe,Morphology,Morphology_Temporal,4,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Cerebellum,Morphology,Morphology_Cerebellum,5,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Brainstem,Morphology,Morphology_Brainstem,6,
+Sandbox/Vessel/CerebralVessel.csv,Sandbox/Category/Radiomics.csv,Brain,Category,Shape,Vessel,Vessel,7,Data/OrganCorrelation/RefData/BrainVessel.csv
+Sandbox/OrganFunction/EEG.csv,Sandbox/Category/EEG.csv,Brain,Category,EEG,EEG,EEG,8,

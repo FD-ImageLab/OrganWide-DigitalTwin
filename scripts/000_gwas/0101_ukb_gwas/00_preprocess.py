@@ -5,9 +5,9 @@ import hail as hl
 import os
 import datetime
 
-from utils.tools import check_path
-from utils.tools import write_pipeline_pheno
-from utils.tools import pipeline_add_82_pheno
+from scripts.utils.tools import check_path
+from scripts.utils.tools import write_pipeline_pheno
+from scripts.utils.tools import pipeline_add_82_pheno
 spark_conf = {
     'spark.master': 'local[30]',
     'spark.executor.memory': '128g',

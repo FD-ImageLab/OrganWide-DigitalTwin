@@ -6,7 +6,7 @@ import hail as hl
 from functools import reduce
 import datetime
 import math
-from utils.tools import check_path
+from scripts.utils.tools import check_path
 
 project_path = os.path.expanduser("/cpfs01/projects-HDD/cfff-6117e6302119_HDD/lm_21210880006/projects/indNet/")
 force_all = True

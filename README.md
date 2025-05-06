@@ -39,7 +39,7 @@ This repository contains supporting code for the study and utilizes the followin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/organ-interaction-atlas.git
+   git clone https://github.com/FD-ImageLab/OrganInteraction.git
    cd organ-interaction-atlas
    ```
 

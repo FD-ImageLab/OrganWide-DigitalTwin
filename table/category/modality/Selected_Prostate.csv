@@ -1,0 +1,5 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/prostate_CZ.csv,Sandbox/Category/Radiomics.csv,Prostate,Region,ROI,Morphology,Morphology_CZ,1,Data/OrganCorrelation/RefData/Prostate.csv
+Sandbox/Organ/prostate_PZ.csv,Sandbox/Category/Radiomics.csv,Prostate,Region,ROI,Morphology,Morphology_PZ,2,
+Sandbox/Organ/prostate_T2.csv,Sandbox/Category/Radiomics.csv,Prostate,Category,Intensity,Water,Water,4,
+Sandbox/Organ/prostate_T2.csv,Sandbox/Category/Radiomics.csv,Prostate,Category,Texture,Texture,Texture,5,

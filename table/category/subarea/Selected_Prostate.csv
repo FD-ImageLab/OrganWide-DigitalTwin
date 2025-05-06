@@ -1,0 +1,4 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/prostate_CZ.csv,Sandbox/Category/Radiomics.csv,Prostate,Region,ROI,CZ,CZ,1,Data/OrganCorrelation/RefData/Prostate.csv
+Sandbox/Organ/prostate_TZ.csv,Sandbox/Category/Radiomics.csv,Prostate,Region,ROI,TZ,TZ,2,
+Sandbox/Organ/prostate_PZ.csv,Sandbox/Category/Radiomics.csv,Prostate,Region,ROI,PZ,PZ,3,

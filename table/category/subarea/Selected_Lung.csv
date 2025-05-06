@@ -1,0 +1,8 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/lungmask_sublevel_3.csv,Sandbox/Category/Radiomics.csv,Lung,Region,ROI,Lobe 3,right_upper_lobe,1,Data/OrganCorrelation/RefData/Lung.csv
+Sandbox/Organ/lungmask_sublevel_4.csv,Sandbox/Category/Radiomics.csv,Lung,Region,ROI,Lobe 4,right_middle_lobe,2,
+Sandbox/Organ/lungmask_sublevel_5.csv,Sandbox/Category/Radiomics.csv,Lung,Region,ROI,Lobe 5,right_lower_lobe,3,
+Sandbox/Organ/lungmask_sublevel_1.csv,Sandbox/Category/Radiomics.csv,Lung,Region,ROI,Lobe 1,left_upper_lobe,4,
+Sandbox/Organ/lungmask_sublevel_2.csv,Sandbox/Category/Radiomics.csv,Lung,Region,ROI,Lobe 2,left_lower_lobe,5,
+Sandbox/Organ/lung_airwaymask.csv,Sandbox/Category/Lung_airway.csv,Lung,Category,Structure,Trachea,trachea,6,
+Sandbox/Vessel/PulmonaryVascular.csv,Sandbox/Category/PulmonaryVessel.csv,Lung,Lobe,TRUE,PV,PulmonaryVascular,2,

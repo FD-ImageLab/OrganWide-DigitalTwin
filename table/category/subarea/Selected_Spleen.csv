@@ -1,0 +1,3 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Vessel/SV.csv,Sandbox/Category/Radiomics.csv,Spleen,Category,Shape,SV,splenic_vein,1,Data/OrganCorrelation/RefData/Spleen.csv
+Sandbox/Organ/spleen_water.csv,Sandbox/Category/Radiomics.csv,Spleen,Region,ROI,Spleen,spleen,2,

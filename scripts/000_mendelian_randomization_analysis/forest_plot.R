@@ -28,10 +28,10 @@ dt$exposure = rename_based_on_df(dt$exposure, nmapdf = pheno_dict, from = "fid",
 dt$outcome = paste0(dt$outcome, "-0.0")
 dt$outcome = rename_based_on_df(dt$outcome, nmapdf = pheno_dict, from = "fid", "description")
 
-# # set row 3n+1,3n+3""
-# rows_to_na <- c(seq(1, nrow(dt), by = 3), seq(3, nrow(dt), by=3))
-# dt$exposure[rows_to_na] = "" 
-# dt$outcome[rows_to_na] = "" 
+# 将3n+1和3n+3的文字置为""
+rows_to_na <- c(seq(1, nrow(dt), by = 3), seq(3, nrow(dt), by=3))
+dt$exposure[rows_to_na] = "" 
+dt$outcome[rows_to_na] = "" 
 
 
 check_path("plot/MR/forest.png")
