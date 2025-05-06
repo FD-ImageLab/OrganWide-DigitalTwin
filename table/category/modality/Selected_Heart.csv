@@ -1,0 +1,7 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Category,Function,Function,Function_heart_volume,1,Data/OrganCorrelation/RefData/Heart.csv
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Category,Structure,Morphology,Morphology_heart_volume,2,
+Sandbox/Vessel/AA.csv,Sandbox/Category/Radiomics.csv,Heart,Category,Shape,Vessel,Vessel,3,
+Sandbox/OrganFunction/ECG.csv,Sandbox/Category/ECG.csv,Heart,Category,ECG,ECG,ECG,4,
+Sandbox/Organ/heart_LV_wall_thickness.csv,Sandbox/Category/Heart_AHA.csv,Heart,Category,Structure,Morphology,Morphology_wall_thickness,5,
+Sandbox/Serum/志愿者招募-常规体检.csv,Sandbox/Category/Serum.csv,Heart,Category,Function,Function,Function,6,

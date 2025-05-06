@@ -1,0 +1,7 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/pancreas_head.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,Morphology,Morphology_PanHead,1,Data/OrganCorrelation/RefData/Pancreas.csv
+Sandbox/Organ/pancreas_body.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,Morphology,Morphology_PanBody,2,
+Sandbox/Organ/pancreas_tail.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,Morphology,Morphology_PanTail,3,
+Sandbox/Organ/pancreas_head.csv,Sandbox/Category/Radiomics.csv,Pancreas,Category,Intensity,Water,Water,4,
+Sandbox/Organ/pancreas_head.csv,Sandbox/Category/Radiomics.csv,Pancreas,Category,Texture,Texture,Texture,5,
+Sandbox/Vessel/SVC.csv,Sandbox/Category/Radiomics.csv,SVC,Category,Shape,Vessel,Vessel,6,Data/OrganCorrelation/RefData/SVC.csv

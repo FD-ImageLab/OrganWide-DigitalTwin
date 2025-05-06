@@ -1,0 +1,9 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Vessel/R_RA.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,RA,R_RA,1,Data/OrganCorrelation/RefData/RenalVessel.csv
+Sandbox/Vessel/R_RV.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,RV,R_RV,2,
+Sandbox/Vessel/L_RA.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,RA,L_RA,3,
+Sandbox/Vessel/L_RV.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,RV,L_RV,4,
+Sandbox/Organ/kidney_cortex_left.csv,Sandbox/Category/Radiomics.csv,Kidney,Region,ROI,L_cortex,L_cortex,5,
+Sandbox/Organ/kidney_cortex_right.csv,Sandbox/Category/Radiomics.csv,Kidney,Region,ROI,R_cortex,R_cortex,6,
+Sandbox/Organ/kidney_medulla.csv,Sandbox/Category/Radiomics.csv,Kidney,Region,ROI,L_medulla,L_medulla,7,
+Sandbox/Organ/kidney_medulla.csv,Sandbox/Category/Radiomics.csv,Kidney,Region,ROI,R_medulla,R_medulla,8,

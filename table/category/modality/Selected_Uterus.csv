@@ -1,0 +1,6 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/uterus_fundus.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Morphology,Morphology_Fundus,1,Data/OrganCorrelation/RefData/Uterus.csv
+Sandbox/Organ/uterus_corpus.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Morphology,Morphology_Corpus,2,
+Sandbox/Organ/uterus_cervix.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Morphology,Morphology_Cervix,3,
+Sandbox/Organ/uterus_T2.csv,Sandbox/Category/Radiomics.csv,Uterus,Category,Intensity,Water,Water,4,
+Sandbox/Organ/uterus_T2.csv,Sandbox/Category/Radiomics.csv,Uterus,Category,Texture,Texture,Texture,5,

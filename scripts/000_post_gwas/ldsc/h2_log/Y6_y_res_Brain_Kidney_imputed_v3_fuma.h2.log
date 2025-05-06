@@ -1,0 +1,32 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 1.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--h2 Y6_y_res_Brain_Kidney_imputed_v3_fuma.sumstats.gz \
+--out Y6_y_res_Brain_Kidney_imputed_v3_fuma.h2 \
+--w-ld /cpfs01/projects-HDD/cfff-6117e6302119_HDD/lm_21210880006/software/ldsc/data/ldscore/EUR/UKBB.EUR \
+--ref-ld /cpfs01/projects-HDD/cfff-6117e6302119_HDD/lm_21210880006/software/ldsc/data/ldscore/EUR/UKBB.EUR 
+
+Beginning analysis at Sat Jan 27 02:04:33 2024
+Reading summary statistics from Y6_y_res_Brain_Kidney_imputed_v3_fuma.sumstats.gz ...
+Read summary statistics for 1176371 SNPs.
+Reading reference panel LD Score from /cpfs01/projects-HDD/cfff-6117e6302119_HDD/lm_21210880006/software/ldsc/data/ldscore/EUR/UKBB.EUR ... (ldscore_fromlist)
+Read reference panel LD Scores for 1094844 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from /cpfs01/projects-HDD/cfff-6117e6302119_HDD/lm_21210880006/software/ldsc/data/ldscore/EUR/UKBB.EUR ... (ldscore_fromlist)
+Read regression weight LD Scores for 1094844 SNPs.
+After merging with reference panel LD, 1082399 SNPs remain.
+After merging with regression SNP LD, 1082399 SNPs remain.
+Using two-step estimator with cutoff at 30.
+Total Observed scale h2: 0.2401 (0.0283)
+Lambda GC: 1.1144
+Mean Chi^2: 1.1433
+Intercept: 1.0293 (0.0083)
+Ratio: 0.2046 (0.0579)
+Analysis finished at Sat Jan 27 02:04:40 2024
+Total time elapsed: 6.23s

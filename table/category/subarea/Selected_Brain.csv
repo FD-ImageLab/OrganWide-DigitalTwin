@@ -1,0 +1,11 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Frontal_lobe,Frontal,Frontal,1,Data/OrganCorrelation/RefData/Brain.csv
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Parietal_lobe,Parietal,Parietal,2,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Occipital_lobe,Occipital,Occipital,3,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Temporal_lobe,Temporal,Temporal,4,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Cerebellum,Cerebellum,Cerebellum,5,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Brainstem,Brainstem,Brainstem,6,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Central_region,Central,Central,7,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Limbic_lobe,Limbic,Limbic,8,
+Sandbox/Organ/brain_volume_aal3.csv,Sandbox/Category/Brain_AAL3.csv,Brain,Region,Sub_cortical_grey_nuclei,Subcortex,Subcortex,9,
+Sandbox/Vessel/CerebralVessel.csv,Sandbox/Category/Radiomics.csv,Brain,Category,Shape,Vessel,Vessel,10,

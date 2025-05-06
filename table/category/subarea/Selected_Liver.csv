@@ -1,0 +1,11 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/liver_couinaud_1.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_1,Couinaud_1,1,Data/OrganCorrelation/RefData/Liver.csv
+Sandbox/Organ/liver_couinaud_2.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_2,Couinaud_2,2,
+Sandbox/Organ/liver_couinaud_3.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_3,Couinaud_3,3,
+Sandbox/Organ/liver_couinaud_4a.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_4,Couinaud_4,4,
+Sandbox/Organ/liver_couinaud_5.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_5,Couinaud_5,6,
+Sandbox/Organ/liver_couinaud_6.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_6,Couinaud_6,7,
+Sandbox/Organ/liver_couinaud_7.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_7,Couinaud_7,8,
+Sandbox/Organ/liver_couinaud_8.csv,Sandbox/Category/Radiomics.csv,Liver,Region,ROI,Seg_8,Couinaud_8,9,
+Sandbox/Vessel/HepaticVein.csv,Sandbox/Category/Radiomics.csv,Liver,Category,Shape,HV,Hepatic_vein,10,
+Sandbox/Vessel/PortalVein.csv,Sandbox/Category/Radiomics.csv,Liver,Category,Shape,PV,Portal_vein,11,

@@ -1,0 +1,8 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/spleen_water.csv,Sandbox/Category/Radiomics.csv,Spleen,Category,Shape,Morphology,Morphology,1,Data/OrganCorrelation/RefData/Spleen.csv
+Sandbox/Organ/spleen_water.csv,Sandbox/Category/Radiomics.csv,Spleen,Category,Intensity,Water,Water,2,
+Sandbox/Organ/spleen_water.csv,Sandbox/Category/Radiomics.csv,Spleen,Category,Texture,Texture,Texture,3,
+Sandbox/Organ/spleen_dADC_metrics.csv,Sandbox/Category/Spleen_ADC.csv,Spleen,Category,Characteristics,Diffusion,Diffusion,4,
+Sandbox/Organ/spleen_fat_fraction_metrics.csv,Sandbox/Category/Spleen_FF.csv,Spleen,Category,Characteristics,Fat,Fat,5,
+Sandbox/Organ/spleen_t2Star_metrics.csv,Sandbox/Category/Spleen_T2s.csv,Spleen,Category,Characteristics,Iron,Iron,6,
+Sandbox/Vessel/SV.csv,Sandbox/Category/Radiomics.csv,Spleen,Category,Shape,Vessel,Vessel,7,Data/OrganCorrelation/RefData/SV.csv

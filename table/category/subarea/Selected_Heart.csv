@@ -1,0 +1,6 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Region,RA,RA,right_atrium,1,
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Region,RV,RV,right_ventricle,2,
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Region,LA,LA,left_atrium,3,
+Sandbox/Organ/heart_volume.csv,Sandbox/Category/Heart.csv,Heart,Region,LV,LV,left_ventricle,4,
+Sandbox/Vessel/AA.csv,Sandbox/Category/Radiomics.csv,Heart,Category,Shape,AA,aorta,5,

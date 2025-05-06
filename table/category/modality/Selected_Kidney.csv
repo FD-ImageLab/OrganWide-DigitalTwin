@@ -1,0 +1,14 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/kidney_water_left.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,Morphology,L_Morphology,1,Data/OrganCorrelation/RefData/Kidney.csv
+Sandbox/Organ/kidney_water_left.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Intensity,Water,L_Water,2,
+Sandbox/Organ/kidney_water_left.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Texture,Texture,L_Texture,3,
+Sandbox/Organ/kidney_dADC_metrics_left.csv,Sandbox/Category/Kidney_ADC.csv,Kidney,Category,Characteristics,Diffusion,L_Diffusion,7,
+Sandbox/Organ/kidney_fat_fraction_metrics_left.csv,Sandbox/Category/Kidney_FF.csv,Kidney,Category,Characteristics,Fat,L_Fat,9,
+Sandbox/Organ/kidney_t2Star_metrics_left.csv,Sandbox/Category/Kidney_T2s.csv,Kidney,Category,Characteristics,Iron,L_Iron,11,
+Sandbox/Vessel/R_RA.csv,Sandbox/Category/Radiomics.csv,RV,Category,Shape,Vessel,Vessel,13,Data/OrganCorrelation/RefData/RenalVessel.csv
+Sandbox/Organ/kidney_water_right.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Shape,Morphology,R_Morphology,,
+Sandbox/Organ/kidney_water_right.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Intensity,Water,R_Water,,
+Sandbox/Organ/kidney_water_right.csv,Sandbox/Category/Radiomics.csv,Kidney,Category,Texture,Texture,R_Texture,,
+Sandbox/Organ/kidney_dADC_metrics_right.csv,Sandbox/Category/Kidney_ADC.csv,Kidney,Category,Characteristics,Diffusion,R_Diffusion,,
+Sandbox/Organ/kidney_fat_fraction_metrics_right.csv,Sandbox/Category/Kidney_FF.csv,Kidney,Category,Characteristics,Fat,R_Fat,,
+Sandbox/Organ/kidney_t2Star_metrics_right.csv,Sandbox/Category/Kidney_T2s.csv,Kidney,Category,Characteristics,Iron,R_Iron,,

@@ -1,0 +1,4 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/pancreas_head.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,PanHead,PanHead,1,Data/OrganCorrelation/RefData/Pancreas.csv
+Sandbox/Organ/pancreas_body.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,PanBody,PanBody,2,
+Sandbox/Organ/pancreas_tail.csv,Sandbox/Category/Radiomics.csv,Pancreas,Region,ROI,PanTail,PanTail,3,

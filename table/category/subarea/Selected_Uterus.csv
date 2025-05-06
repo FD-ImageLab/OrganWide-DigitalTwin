@@ -1,0 +1,4 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,SubArea,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/uterus_fundus.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Fundus,uterus_fundus,1,Data/OrganCorrelation/RefData/Uterus.csv
+Sandbox/Organ/uterus_corpus.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Corpus,uterus_corpus,2,
+Sandbox/Organ/uterus_cervix.csv,Sandbox/Category/Radiomics.csv,Uterus,Region,ROI,Cervix,uterus_cervix,3,

@@ -1,0 +1,10 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/lungmask_left.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Shape,Morphology,L_Morphology,1,Data/OrganCorrelation/RefData/Lung.csv
+Sandbox/Organ/lungmask_left.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Intensity,Water,L_Water,2,
+Sandbox/Organ/lungmask_left.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Texture,Texture,L_Texture,3,
+Sandbox/Organ/lungmask_right.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Shape,Morphology,R_Morphology,4,
+Sandbox/Organ/lungmask_right.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Intensity,Water,R_Water,5,
+Sandbox/Organ/lungmask_right.csv,Sandbox/Category/Radiomics.csv,Lung,Category,Texture,Texture,R_Texture,6,
+Sandbox/Vessel/PulmonaryVascular.csv,Sandbox/Category/PulmonaryVessel.csv,PV,Lobe,TRUE,Vessel,Vessel,7,Data/OrganCorrelation/RefData/PV.csv
+Sandbox/OrganFunction/LungFunction.csv,Sandbox/Category/LungFunction.csv,Lung,Category,Function,Function,Function,8,
+Sandbox/Organ/lung_airwaymask.csv,Sandbox/Category/Lung_airway.csv,Lung,Category,Structure,Morphology,Morphology,9,

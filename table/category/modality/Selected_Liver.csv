@@ -1,0 +1,9 @@
+﻿File,RefFile,Organ,SelectedColumn,SelectedName,Modality,Prefix,SaveNumber,RefTarget
+Sandbox/Organ/liver_water.csv,Sandbox/Category/Radiomics.csv,Liver,Category,Shape,Morphology,Morphology,1,Data/OrganCorrelation/RefData/Liver.csv
+Sandbox/Organ/liver_water.csv,Sandbox/Category/Radiomics.csv,Liver,Category,Intensity,Water,Water,2,
+Sandbox/Organ/liver_water.csv,Sandbox/Category/Radiomics.csv,Liver,Category,Texture,Texture,Texture,3,
+Sandbox/Organ/liver_dADC_metrics.csv,Sandbox/Category/Liver_ADC.csv,Liver,Category,Characteristics,Diffusion,Diffusion,4,
+Sandbox/Organ/liver_fat_fraction_metrics.csv,Sandbox/Category/Liver_FF.csv,Liver,Category,Characteristics,Fat,Fat,5,
+Sandbox/Organ/liver_t2Star_metrics.csv,Sandbox/Category/Liver_T2s.csv,Liver,Category,Characteristics,Iron,Iron,6,
+Sandbox/Vessel/PortalVein.csv,Sandbox/Category/Radiomics.csv,HV,Category,Shape,Vessel,Portal_Vessel,7,Data/OrganCorrelation/RefData/LiverVessel.csv
+Sandbox/Vessel/HepaticVein.csv,Sandbox/Category/Radiomics.csv,HV,Category,Shape,Vessel,Hepatic_Vessel,8,
