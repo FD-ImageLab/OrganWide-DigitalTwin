@@ -1,21 +1,19 @@
 
-# Digital Twin Multi-organ Interactions![image](https://github.com/user-attachments/assets/9a8f9cff-d8c4-45b5-9733-63c69a300828)
-![image](https://github.com/user-attachments/assets/278d289e-adba-4dce-a670-e506db98661b)
-[Uploading image.png…]()
+# Digital Twin Multi-organ Interactions!
 
-This project is based on our study: Atlas of the Human Organ Interaction Network.
+This project is based on our study: Human Phenomics-based Digital Twin: Advancing Systematic Insights into Multi-organ Interactions
+**The content of this repository is still being updated, and we will upload all the code after the article goes online.**
+
 ## Overview
 
-This study provides a **comprehensive atlas of human organ interactions**, exploring the dynamic relationships between 9 major organs and their implications in multi-organ diseases. By utilizing multi-omics and population-level phenotypic data, we reveal key genetic loci and molecular mediators influencing organ interactions and establish its predictive value for various diseases.
+This study developed an **organ-wide ‘digital human’ framework** to characterize multi-organ interaction patterns across both population and individual levels. Using organ-level phenotypes from the China Phenobank (2,361 phenotypes) and the UK Biobank (312 pheno-types) spanning seven major organs, our framework enables systematic observation and analysis of multi-organ interaction patterns. Unlike previous digital twin models that focused solely on individual organ functions, this organ-wide approach offers a comprehensive view of inter-organ dynamics and interactions.
 
 ## Highlights
 
-- **Comprehensive Atlas**: Maps out the interactions between 9 human organs.
-- **Age and Gender Effects**: The perturbation of organ interactions increases with age, with more pronounced effects in males than females.
-- **Genetic Insights**: Identifies 143 genetic loci regulating multi-organ interactions, with 24 loci co-localizing with common diseases.
-- **Inflammatory and Metabolic Pathways**: Enrichment and mediation analyses suggest that inflammatory and metabolic factors are critical mediators of organ interactions.
-- **Predictive Value**: Organ interaction perturbations serve as a new phenotype with predictive potential for major diseases.
-
+1.	**A novel digital twin framework**: We provide the foundation to model and analyze multi-organ interac-tions, exploring key factors that influence organ interaction patterns and the underlying mechanisms of in-teraction perturbations.
+2.	**Genomic and pathway discoveries**: Our analysis revealed dynamic inter-organ connections mediated by cellular, inflammatory, and metabolic pathways. We identified 44 genetic loci associated with multi-organ interactions, 18 of which are co-localized with known diseases.
+3.	**Age- and sex-related variations**: We observed that variations in organ interaction patterns increase with age and are more pronounced in males than in females.
+4.	**Predictive potential for disease**: Organ interaction perturbations show potential for predicting the long-term occurrence of major diseases.
 
 ## Supporting Packages
 
